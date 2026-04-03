@@ -1,2 +1,2 @@
 # Lab1
-Lab_1 EVM FEFU
+Labs EVM FEFU
